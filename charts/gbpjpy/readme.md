@@ -1,6 +1,6 @@
 ### 📂 Case Study 05: GBPJPY — High-Volatility Asymmetry and Macro Crisis Rebalancing
 
-![GBPJPY Macro Case](images/gbpjpy_macro_crisis_rebalancing.png)
+![GBPJPY Macro Case](gbpjpy_macro_crisis_rebalancing.png)
 
 *   **Asset:** GBPJPY (4H)
 *   **Structural Context:** Extreme Volatility / Macro Expansion Event

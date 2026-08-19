@@ -1,6 +1,6 @@
 ### 📂 Case Study 02: EURUSD — Multi-Week Induced Distribution & Macro Rebalancing
 
-![EURUSD 6-Week Macro Case](images/eurusd_6week_rebalancing.png)
+![EURUSD 6-Week Macro Case](eurusd_6week_rebalancing.png)
 
 *   **Asset:** EURUSD (4H)
 *   **Structural Context:** Macro Pricing Asymmetry

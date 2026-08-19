@@ -1,6 +1,6 @@
 ### 📂 Case Study 03: USDCHF — Cascading Liquidity Expansions & Trend Equilibrium
 
-![USDCHF Cascading Case](images/usdchf_cascading_equilibrium.png)
+![USDCHF Cascading Case](usdchf_cascading_equilibrium.png)
 
 *   **Asset:** USDCHF (4H)
 *   **Structural Context:** Continuous Trend Aggregation

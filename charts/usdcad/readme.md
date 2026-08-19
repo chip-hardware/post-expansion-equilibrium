@@ -1,6 +1,6 @@
 ### 📂 Case Study 04: USDCAD — Equilibrium Inversion and Order-Flow Reversal
 
-![USDCAD Inversion Case](images/usdcad_equilibrium_break_reversal.png)
+![USDCAD Inversion Case](usdcad_equilibrium_break_reversal.png)
 
 *   **Asset:** USDCAD (4H)
 *   **Structural Context:** Failed Trend Continuation Matrix
