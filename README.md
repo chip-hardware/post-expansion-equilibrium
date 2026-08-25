@@ -47,6 +47,11 @@ The automated scanner's findings have been compiled into detailed structural cha
 * [**Case 03: USDCHF**](./charts/usdchf/readme.md) — Sequential block mitigation within a cascading trend structure.
 * [**Case 04: USDCAD**](./charts/usdcad/readme.md) — Failed trend continuation matrix and 50% equilibrium level inversion.
 * [**Case 05: GBPJPY**](./charts/gbpjpy/readme.md) — High-velocity algorithmic price delivery during macroeconomic crisis conditions.
+### 📡 Live Engine Radar (Forward Testing)
+The framework is currently undergoing continuous automated stress-testing. A cloud-native terminal routine scans high-liquidity ECN structural frames (H4 metrics) in real-time, dispatching isolated expansion anomalies and geometric target parameters instantly.
+
+* **Execution Environment:** GitHub Actions (Automated cloud node)
+* **Real-Time Feed:** [t.me/Shark Live Radar](https://t.me/shark_radar) *(Minimalist terminal output)*
 
 ## Open Research & Collaboration
 This project functions as an open-source technical notebook. The objective is to compile empirical data regarding the duration of the distribution phases across different asset classes (Majors, Crosses, Commodities) and time horizons.
