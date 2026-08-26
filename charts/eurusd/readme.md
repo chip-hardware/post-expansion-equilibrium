@@ -1,10 +1,10 @@
 ### 📂 Case Study 02: EURUSD — Multi-Week Induced Distribution & Macro Rebalancing
 
 #### Phase 1: Range Formation & Equilibrium Identification
-![EURUSD 6-Week Macro Case](eurusd_6week_rebalancing.png)
+![EURUSD 6-Week Macro Case](../../eurusd_6week_rebalancing.png)
 
 #### Phase 2: Algorithmic Delivery Continuation (Live Update)
-![EURUSD Live Progress](eurusd_6week_rebalancing_update.png)
+![EURUSD Live Progress](../../eurusd_6week_rebalancing_update.png)
 
 *   **Asset:** EURUSD (4H)
 *   **Structural Context:** Macro Pricing Asymmetry
